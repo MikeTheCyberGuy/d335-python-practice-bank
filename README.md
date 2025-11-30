@@ -65,8 +65,6 @@ Current files expected in this repo:
 - **`data_mixture.py`**  
   A small helper/module that may contain the shared `data_mixture` list for type-classification exercises (or similar shared data for other problems).
 
-> Note: If your local copy is missing any of these, you can safely add/remove files as long as each one remains self-contained and clearly documented at the top.
-
 ---
 
 ## Getting started
