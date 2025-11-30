@@ -2,6 +2,11 @@
 
 A small collection of self-contained Python practice problems inspired by the kinds of tasks you’ll see in an intro programming / CS fundamentals course.
 
+## Code of Conduct
+
+By using or contributing to this repository, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).  
+In short: this repo is for practice-only content, **not** for sharing exam answers or graded assignment solutions.
+
 Each file is designed so that students can:
 
 - Read a clear problem statement at the top.
