@@ -76,5 +76,5 @@ Current files expected in this repo:
 On your machine:
 
 ```bash
-git clone https://github.com/<your-username>/d335-python-practice-bank.git
+git clone https://github.com/MikeTheCyberGuy/d335-python-practice-bank.git
 cd d335-python-practice-bank
