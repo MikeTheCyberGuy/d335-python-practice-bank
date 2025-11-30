@@ -2,6 +2,11 @@
 
 A small collection of self-contained Python practice problems inspired by the kinds of tasks you’ll see in an intro programming / CS fundamentals course.
 
+## Code of Conduct
+
+By using or contributing to this repository, you agree to the [Code of Conduct](CODE_OF_CONDUCT.md).  
+In short: this repo is for practice-only content, **not** for sharing exam answers or graded assignment solutions.
+
 Each file is designed so that students can:
 
 - Read a clear problem statement at the top.
@@ -65,8 +70,6 @@ Current files expected in this repo:
 - **`data_mixture.py`**  
   A small helper/module that may contain the shared `data_mixture` list for type-classification exercises (or similar shared data for other problems).
 
-> Note: If your local copy is missing any of these, you can safely add/remove files as long as each one remains self-contained and clearly documented at the top.
-
 ---
 
 ## Getting started
@@ -76,5 +79,5 @@ Current files expected in this repo:
 On your machine:
 
 ```bash
-git clone https://github.com/<your-username>/d335-python-practice-bank.git
+git clone https://github.com/MikeTheCyberGuy/d335-python-practice-bank.git
 cd d335-python-practice-bank
