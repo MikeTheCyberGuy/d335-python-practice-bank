@@ -72,6 +72,19 @@ Current files expected in this repo:
 
 ---
 
+## Discussions
+
+Questions? Want more practice on a particular topic?
+
+Use the GitHub Discussions tab to:
+- Request new practice problems
+- Ask about existing ones
+- Share alternative solutions
+
+Please read the [Code of Conduct](CODE_OF_CONDUCT.md) first — especially the part about not posting exam questions or graded assignment answers.
+
+---
+
 ## Getting started
 
 ### 1. Clone the repo
